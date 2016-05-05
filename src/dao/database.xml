@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+<url>jdbc:mysql://localhost:3306/test?useUnicode=true&amp;characterEncoding=utf8&amp;autoReconnect=true&amp;failOverReadOnly=false</url>
+<driver>com.mysql.jdbc.Driver</driver>
+<user>root</user>
+<password>123456</password>
+</database>
